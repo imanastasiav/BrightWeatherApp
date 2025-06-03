@@ -19,5 +19,9 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Для отображения погоды в вашем текущем местоположении</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Для отображения погоды в вашем текущем местоположении</string>
 </dict>
 </plist>
