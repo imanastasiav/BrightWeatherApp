@@ -11,3 +11,8 @@ The app shows the weather forecast for 5 days ahead, which describes the tempera
 MVVM is a widely used architectural pattern in iOS development. It separates an application's user interface (UI) from its data and business logic: Model, View, and ViewModel.
 
 It promotes a clear separation of concerns, making applications more maintainable, testable, and scalable. 
+## Project Setup
+The application views are all written in code.
+
+##Contact
+Anastasiia Vasileva, email: mylifeasanstsia@gmail.com - feel free to contact me for any questions or suggestions!
